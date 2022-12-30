@@ -7,4 +7,5 @@
 <!---
 dr-membrana/dr-membrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->I am Dr. Membrana, recently retired, wanting to start a new path in the area of data science, I am starting from scratch, but I have started many of my projects that in the end have borne good fruits and here I go with much encouragement to learn.
+
